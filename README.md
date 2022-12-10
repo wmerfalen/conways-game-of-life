@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Conway's game of life in ReactJS
+
+# Live demo
+[https://wmerfalen.github.io/conways-game-of-life/](https://wmerfalen.github.io/conways-game-of-life/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
